@@ -6,7 +6,7 @@ I'm Carlos from Houston, Texas, and I'm an upcoming software engineer
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page and other projects. 
 - 🌱 I’m currently learning python and backend development 
 - 📫 How to reach me: Carlopez18797@gmail.com 
 
