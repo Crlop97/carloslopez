@@ -1,6 +1,6 @@
 ### Hi there 👋, Carlos Lopez
 #### Upcoming software engineer
-![Upcoming software engineer](https://pbs.twimg.com/profile_banners/3338455160/1706240273/1500x500)
+
 
 I'm Carlos from Houston, Texas, and I'm an upcoming software engineer
 
